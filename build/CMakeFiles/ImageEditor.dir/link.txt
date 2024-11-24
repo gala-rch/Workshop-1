@@ -1,0 +1,3 @@
+C:\Winlibs\mingw64\bin\cmake.exe -E rm -f CMakeFiles\ImageEditor.dir/objects.a
+C:\Winlibs\mingw64\bin\ar.exe qc CMakeFiles\ImageEditor.dir/objects.a @CMakeFiles\ImageEditor.dir\objects1.rsp
+C:\Winlibs\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ImageEditor.dir/objects.a -Wl,--no-whole-archive -o ImageEditor.exe -Wl,--out-implib,libImageEditor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ImageEditor.dir\linkLibs.rsp

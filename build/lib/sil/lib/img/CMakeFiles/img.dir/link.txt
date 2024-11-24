@@ -1,0 +1,2 @@
+C:\Winlibs\mingw64\bin\ar.exe qc libimg.a CMakeFiles/img.dir/src/Load.cpp.obj CMakeFiles/img.dir/src/Save.cpp.obj
+C:\Winlibs\mingw64\bin\ranlib.exe libimg.a

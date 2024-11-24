@@ -1,0 +1,2 @@
+C:\Winlibs\mingw64\bin\ar.exe qc libsil.a CMakeFiles/sil.dir/src/sil.cpp.obj
+C:\Winlibs\mingw64\bin\ranlib.exe libsil.a
